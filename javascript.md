@@ -2,6 +2,7 @@
 
 ### Projektbeskrivelse
 
+
 ### Læringsmål
 
 Viden
@@ -21,6 +22,7 @@ Kompetencer
 - Deltage i fagligt og tværfagligt samarbejde og projektarbejde i forbindelse med webudvikling med en professionel tilgang, samt deltage i udvikling af praksis inden for JavaScript-programmering.
 - I en struktureret sammenhæng tilegne sig ny viden, færdigheder og kompetencer i relation til webudvikling og JavaScript, herunder domæneviden, teknologisk viden samt anvendelse af nye metoder, teknikker og værktøjer.
 
+
 ### Kvalitetskriterier
 
 Specifik
@@ -37,6 +39,7 @@ Realistisk
 
 Tidsbestemt
 - Der skal være en klar tidsramme for, hvornår målet skal være opnået. Dette gør det lettere at planlægge og holde styr på fremskridt.
+
 
 ### Kildemateriale
 
@@ -65,6 +68,7 @@ node -v # should print `v20.17.0`
 # verifies the right npm version is in the environment
 npm -v # should print `10.8.2`
 ```
+
 
 ### Logbog
 
