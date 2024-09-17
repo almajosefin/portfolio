@@ -1,4 +1,4 @@
-# Portfolio
+# Datamatiker
 
 ### JavaScript
 [JavaScript](https://almajosefin.github.io/portfolio/javascript)
