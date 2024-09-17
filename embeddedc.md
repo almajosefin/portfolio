@@ -2,6 +2,7 @@
 
 ### Projektbeskrivelse
 
+
 ### Læringsmål
 
 Viden
@@ -23,22 +24,24 @@ Kompetencer
 ### Kvalitetskriterier
 
 Specifik
-- Vigtighed: Målene skal være klare og specifikke, så der ikke er nogen tvivl om, hvad der forventes.
+- Målene skal være klare og specifikke, så der ikke er nogen tvivl om, hvad der forventes.
 
 Målbar
-- Vigtighed: Det skal være muligt at måle, om målet er opnået. Målbarhed gør det lettere at vurdere fremskridt og succes.
+- Det skal være muligt at måle, om målet er opnået. Målbarhed gør det lettere at vurdere fremskridt og succes.
 
 Acceptabel
-- Vigtighed: Målene skal være opnåelige med de ressourcer og den tid, der er til rådighed. Dette motiverer de studerende til at arbejde mod målet.
+- Målene skal være opnåelige med de ressourcer og den tid, der er til rådighed. Dette motiverer de studerende til at arbejde mod målet.
 
 Realistisk
-- Vigtighed: Målene skal være relevante for den studerendes læringsbehov og faglige udvikling. De skal være knyttet til virkelige arbejdsopgaver eller viden, der er anvendelig.
+- Målene skal være relevante for den studerendes læringsbehov og faglige udvikling. De skal være knyttet til virkelige arbejdsopgaver eller viden, der er anvendelig.
 
 Tidsbestemt
-- Vigtighed: Der skal være en klar tidsramme for, hvornår målet skal være opnået. Dette gør det lettere at planlægge og holde styr på fremskridt.
+- Der skal være en klar tidsramme for, hvornår målet skal være opnået. Dette gør det lettere at planlægge og holde styr på fremskridt.
+
 
 ### Kildemateriale
 
 Arduino Starter Kit
+
 
 ### Logbog
