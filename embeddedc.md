@@ -2,6 +2,7 @@
 
 ### Projektbeskrivelse
 
+Skærm til guldsmed.
 
 ### Læringsmål
 
@@ -41,7 +42,9 @@ Tidsbestemt
 
 ### Kildemateriale
 
-Arduino Starter Kit
-
+- Arduino Starter Kit: https://store.arduino.cc/products/arduino-starter-kit-multi-language?srsltid=AfmBOopam0-vCJzH_jirSqHuYWugDs-QmqLTUSrikJpM32HCJBhPvOWR
+- Arduino GIGA Display Bundle: https://store.arduino.cc/products/giga-display-bundle?queryID=undefined
+- LinkedIn Learning, C Essential Training, Dan Gookin: https://www.linkedin.com/learning/c-essential-training/understanding-functions?contextUrn=urn%3Ali%3AlearningCollection%3A7120734119168233472&u=57075649
+- YouTube, C Programming Tutorial For Beginners, freeCodeCamp.org: https://www.youtube.com/watch?v=KJgsSFOSQv0&list=PLX--_LXf1PQfaDgyoSpSvc8v3f_876OOR&index=4
 
 ### Logbog
