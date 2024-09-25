@@ -2,6 +2,7 @@
 
 ### Projektbeskrivelse
 
+Digital ordrebog for guldsmed.
 
 ### Læringsmål
 
@@ -43,15 +44,12 @@ Tidsbestemt
 
 ### Kildemateriale
 
-Learn JavaScript: https://learnjavascript.online/app.html?id=1435
-
-React: https://react.dev/
-
-LinkedIn Learning, JavaScript Essential Training, Morten Rand-Hendriksen: https://www.linkedin.com/learning-login/share?account=57075649&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3Dh19khlYSSuieNnoOMRRg9w%253D%253D
-
-Youtube, React JS Full Course, JavaScript Mastery: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=790s
-
-Node.js: https://nodejs.org/en/download/package-manager
+- Learn JavaScript: https://learnjavascript.online/app.html?id=1435
+- LinkedIn Learning, JavaScript Essential Training, Morten Rand-Hendriksen: https://www.linkedin.com/learning-login/share?account=57075649&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3Dh19khlYSSuieNnoOMRRg9w%253D%253D
+- React: https://react.dev/
+- Youtube, React JS Full Course, JavaScript Mastery: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=790s
+- Youtube, How To Create A Navbar In React With Routing, Web Dev Simplified: https://www.youtube.com/watch?v=SLfhMt5OUPI
+- Node.js: https://nodejs.org/en/download/package-manager
 ```
 # installs fnm (Fast Node Manager)
 winget install Schniz.fnm
